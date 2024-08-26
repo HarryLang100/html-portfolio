@@ -1,9 +1,13 @@
 body {
     background-color: #FBF6E2;
+    
 }
 
 h1 {
-    color: #402E7A
+    color: #402E7A;
+    font-family: "Playfair Display";
+    font-size: 5rem;
+
 }
 
 
